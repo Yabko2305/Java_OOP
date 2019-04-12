@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox prefHeight="353.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8.0.201" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.HelpController">
+   <children>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="DomainClient is a program used as an Data-loading/saving program , which saves data about clients of your corp. It has 4 menus : AddClient - use it to add new client (Fill all containers before adding new client) , ShowUsers - shows a list of users  , DeleteUser  - a menu to delete a client and ChangeUserProperty - to change only one property for a client chosen . Also Domain clients has functions Save as.. and Open which allows to save or load data" wrappingWidth="637.3367295265198">
+         <font>
+            <Font name="Book Antiqua" size="28.0" />
+         </font>
+      </Text>
+   </children>
+</VBox>
